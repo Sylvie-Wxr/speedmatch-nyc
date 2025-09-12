@@ -19,25 +19,25 @@ const SocialMedia = ({
       platform: 'Twitter',
       url: 'https://x.com/speedmatchelect',
       icon: <FaSquareXTwitter />,
-      ariaLabel: 'Follow Speed Matching NYC on Twitter'
+      ariaLabel: 'Follow Speed Match NYC on Twitter'
     },
     {
       platform: 'TikTok',
       url: 'https://www.tiktok.com/@speedmatchnyc',
       icon: <FaTiktok />,
-      ariaLabel: 'Follow Speed Matching NYC on TikTok'
+      ariaLabel: 'Follow Speed Match NYC on TikTok'
     },
     {
       platform: 'Instagram',
       url: 'https://www.instagram.com/speedmatchnyc',
       icon: <FaInstagram />,
-      ariaLabel: 'Follow Speed Matching NYC on Instagram'
+      ariaLabel: 'Follow Speed Match NYC on Instagram'
     },
     {
       platform: 'Facebook',
       url: 'https://www.facebook.com/people/Speed-Match-NYC/61578917033976/',
       icon: <FaSquareFacebook />,
-      ariaLabel: 'Follow Speed Matching NYC on Facebook'
+      ariaLabel: 'Follow Speed Match NYC on Facebook'
     }
   ];
 

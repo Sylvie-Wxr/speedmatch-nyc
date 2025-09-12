@@ -11,7 +11,7 @@ function Aboutpage() {
 	const organizationSchema = {
 		"@context": "https://schema.org",
 		"@type": "Organization",
-		"name": "Speed Matching NYC",
+		"name": "Speed Match NYC",
 		"description": "Independent organization helping NYC voters find their ideal mayoral candidate through political matching",
 		"url": "https://speedmatch.nyc/about",
 		"foundingDate": "2025",
@@ -28,7 +28,7 @@ function Aboutpage() {
 		<>
 			<SEOHead
 				title="About This Project"
-				description="Learn about Speed Matching NYC, our mission to help voters find their ideal mayoral candidate, and our commitment to political neutrality in the 2025 NYC election."
+				description="Learn about Speed Match NYC, our mission to help voters find their ideal mayoral candidate, and our commitment to political neutrality in the 2025 NYC election."
 				keywords="about speed match, NYC election project, political neutrality, voter education"
 				canonical="https://speedmatch.nyc/about"
 				ogImages={{
@@ -96,7 +96,7 @@ function Aboutpage() {
 										className={styles.githubButton}
 										target="_blank"
 										rel="noopener noreferrer"
-										aria-label="View Speed Matching NYC's previous project for the primary election"
+										aria-label="View Speed Match NYC's previous project for the primary election"
 									>
 										View Our Previous Project
 									</a>

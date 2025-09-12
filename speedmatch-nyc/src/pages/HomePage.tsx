@@ -58,7 +58,7 @@ function HomePage() {
 	const websiteSchema = {
 		"@context": "https://schema.org",
 		"@type": "WebSite",
-		"name": "Speed Matching NYC",
+		"name": "Speed Match NYC",
 		"alternateName": "NYC Mayoral Candidate Matcher",
 		"url": "https://speedmatch.nyc",
 		"description": "Take Speed Match NYC's 8 minute quiz to find the 2025 Mayoral Candidate you align with."
@@ -67,7 +67,7 @@ function HomePage() {
 	const organizationSchema = {
 		"@context": "https://schema.org",
 		"@type": "Organization",
-		"name": "Speed Matching NYC",
+		"name": "Speed Match NYC",
 		"description": "Take Speed Match NYC's 8 minute quiz to find the 2025 Mayoral Candidate you align with.",
 		"url": "https://speedmatch.nyc",
 		"foundingDate": "2025",

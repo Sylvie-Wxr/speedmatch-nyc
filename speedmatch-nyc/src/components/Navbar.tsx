@@ -34,7 +34,7 @@ function Navbar({ buttons }: NavBarProps) {
 		<nav className={`${styles.navbar}`}>
 			<div className={styles.logo}>
 				<Link to="/" onClick={handleLogoClick}>
-				<img src={logo} alt="Speed Matching logo" height={40} />
+				<img src={logo} alt="Speed Match logo" height={40} />
 				</Link>
 			</div>
 

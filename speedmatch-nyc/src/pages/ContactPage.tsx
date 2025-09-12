@@ -12,7 +12,7 @@ function ContactPage() {
 		"@context": "https://schema.org",
 		"@type": "ContactPage",
 		"name": "Contact Speed Match NYC",
-		"description": "Get in touch with the Speed Matching NYC team for collaboration, support, or outreach opportunities",
+		"description": "Get in touch with the Speed Match NYC team for collaboration, support, or outreach opportunities",
 		"url": "https://speedmatch.nyc/contact",
 		"mainEntity": {
 			"@type": "Organization",
